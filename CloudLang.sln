@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLang", "CloudLang\CloudLang.csproj", "{F2B2DDEA-B0DF-4BF5-9783-203769190F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLang.Test", "CloudLang.Test\CloudLang.Test.csproj", "{564DE094-0F10-4050-8053-DAF531280C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B2DDEA-B0DF-4BF5-9783-203769190F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B2DDEA-B0DF-4BF5-9783-203769190F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B2DDEA-B0DF-4BF5-9783-203769190F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B2DDEA-B0DF-4BF5-9783-203769190F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564DE094-0F10-4050-8053-DAF531280C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564DE094-0F10-4050-8053-DAF531280C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564DE094-0F10-4050-8053-DAF531280C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564DE094-0F10-4050-8053-DAF531280C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E730DED6-36B9-4F7E-A5B7-578A9729E06D}
+	EndGlobalSection
+EndGlobal
