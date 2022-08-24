@@ -18,7 +18,7 @@ public class TokenConstants
     public const TokenType Bang = "!";
 
     public const TokenType Lt = "<";
-    public const TokenType Rt = ">";
+    public const TokenType Gt = ">";
 
     public const TokenType Eq = "==";
     public const TokenType NotEq = "!=";
